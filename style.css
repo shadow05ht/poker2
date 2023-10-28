@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Ramaraja', serif;
+    background-image:url(poker.jpg)
+}
+
+.one {
+    line-height: 50px;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    background-color: #dddbcb;
+    color: black;
+    text-align: center;
+}
+
+#game {
+    margin: auto;
+    margin-top: 100px;
+    color: black;
+    line-height: 400px;
+    width: 75%;
+    text-align: center;
+    border-radius: 30px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 100px;
+    margin-bottom: 100px;
+    background-color: #dddbcb;
+}
+
+#netice {
+    margin: auto;
+    margin-top: 100px;
+    color: black;
+    line-height: 400px;
+    width: 75%;
+    text-align: center;
+    border-radius: 30px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 100px;
+    margin-bottom: 100px;
+    background-color: #dddbcb;
+}
+
+.footer {
+    line-height: 50px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: #dddbcb;
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    margin-top: 130px;
+    padding: auto;
+    margin-left: 10px;
+}
+
+.container {
+    display: flex;
+}
+
+::selection {
+    background-color: black;
+    color: #dddbcb;
+}
+
+button {
+    margin: auto;
+    line-height: 100px;
+    width: 300px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 25px;
+    background-color: #dddbcb;
+    font-family: 'Ramaraja', serif;
+}
