@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Ramaraja', serif;
-    background-image:url(poker.jpg);
+    background-image: url(poker.jpg);
 }
 
 .one {
@@ -80,6 +80,7 @@ button {
     font-family: 'Ramaraja', serif;
     margin-bottom: 30px;
 }
-.tool{
+
+.tool {
     margin-bottom: 30px;
 }
