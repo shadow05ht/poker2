@@ -54,7 +54,7 @@ oyna.onclick = function () {
 son.onclick = function () {
     if (netice < 21) {
         finish = netice;
-        document.getElementById('game').innerHTML = `Siz ${finish} xal ilə bitirdiniz`;
+        document.getElementById('game').innerHTML = `Siz ${finish} xal qazandınız`;
     } else {
         document.getElementById('game').innerHTML = `${ad}, siz uduzdunuz.`;
     }
